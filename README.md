@@ -1,5 +1,5 @@
 ### Oii! Eu sou a Laura Gomes e seja-bem vindo! 
-- 🌱 Estudando Typescript
+- 🌱 Estudando 
 
 <div>
   <a href="https://github.com/Laurarpgk0">
