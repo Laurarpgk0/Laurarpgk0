@@ -1,5 +1,9 @@
 ### Oii! Eu sou a Laura Gomes e seja-bem vindo! 
-- 🌱 Estudando 
+- 🌱 Tecnologias que estou estudando atualmente 💻<div/>
+- HTML
+- CSS
+- JavaScript
+- React
 
 <div>
   <a href="https://github.com/Laurarpgk0">
