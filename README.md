@@ -3,7 +3,7 @@
 - HTML
 - CSS
 - JavaScript
-- React
+- React-Native
 
 <div>
   <a href="https://github.com/Laurarpgk0">
