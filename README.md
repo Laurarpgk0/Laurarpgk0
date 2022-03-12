@@ -4,6 +4,8 @@
 - CSS
 - JavaScript
 - React-Native
+- ReactJS
+- TypeScript
 
 <div>
   <a href="https://github.com/Laurarpgk0">
