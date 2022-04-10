@@ -6,6 +6,7 @@
 - React-Native
 - ReactJS
 - TypeScript
+- NodeJS
 
 <div>
   <a href="https://github.com/Laurarpgk0">
