@@ -7,6 +7,8 @@
 - ReactJS
 - TypeScript
 - NodeJS
+- NextJS
+- C#
 
 <div>
   <a href="https://github.com/Laurarpgk0">
