@@ -1,4 +1,4 @@
-### Oii! Eu sou a Laura Gomes e seja-bem vindo! 
+### Oii! Eu sou a Laura Gomes e seja-bem vindo(a)! 
 - 🌱 Tecnologias que estou estudando atualmente 💻<div/>
 - HTML
 - CSS
